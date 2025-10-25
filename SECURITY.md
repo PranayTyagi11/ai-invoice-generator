@@ -402,31 +402,6 @@ const corsOptions = {
 app.use(cors(corsOptions));
 ```
 
-### Firewall Configuration
-
-**Network Security Rules**
-```yaml
-# Firewall rules
-rules:
-  - name: "Allow HTTPS"
-    port: 443
-    protocol: "tcp"
-    source: "0.0.0.0/0"
-    action: "allow"
-  
-  - name: "Allow SSH"
-    port: 22
-    protocol: "tcp"
-    source: "10.0.0.0/8"
-    action: "allow"
-  
-  - name: "Block all other"
-    port: "all"
-    protocol: "all"
-    source: "0.0.0.0/0"
-    action: "deny"
-```
-
 ## 🔐 AI Security
 
 ### OpenAI API Security
