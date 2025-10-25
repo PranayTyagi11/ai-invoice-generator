@@ -1,8 +1,7 @@
-# 🧾 AI Invoice Generator
+# AI Invoice Generator
 
 <div align="center">
 
-![AI Invoice Generator](screenshots/hero-banner.png)
 
 **A modern, intelligent invoice management system powered by AI**
 
@@ -14,7 +13,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Screenshots](#-screenshots)
@@ -28,7 +27,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 The **AI Invoice Generator** is a cutting-edge web application that revolutionizes invoice management through artificial intelligence. Built with modern web technologies, it provides businesses with an intelligent, automated solution for creating, managing, and processing invoices with unprecedented efficiency.
 
@@ -43,7 +42,7 @@ The **AI Invoice Generator** is a cutting-edge web application that revolutioniz
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Dashboard Overview
 ![Dashboard](screenshots/dashboard.png)
@@ -77,31 +76,31 @@ The **AI Invoice Generator** is a cutting-edge web application that revolutioniz
 
 ## ✨ Key Features
 
-### 🤖 AI-Powered Intelligence
+### AI-Powered Intelligence
 - **Smart Invoice Parsing**: Automatically extract data from uploaded documents
 - **Intelligent Suggestions**: AI-powered recommendations for invoice content
 - **Natural Language Processing**: Convert text descriptions into structured invoice data
 - **Automated Calculations**: Smart tax and total calculations
 
-### 📊 Dashboard & Analytics
+### Dashboard & Analytics
 - **Real-Time Metrics**: Live dashboard with key performance indicators
 - **Revenue Tracking**: Comprehensive financial analytics and reporting
 - **Invoice Status Monitoring**: Visual progress tracking for all invoices
 - **Client Analytics**: Detailed insights into client relationships
 
-### 🎨 Modern User Interface
+### Modern User Interface
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Dark/Light Mode**: Customizable theme preferences
 - **Intuitive Navigation**: User-friendly interface with smooth animations
 - **Accessibility**: WCAG compliant design for inclusive access
 
-### 🔐 Enterprise Security
+### Enterprise Security
 - **Row-Level Security**: Database-level access control with Supabase RLS
 - **JWT Authentication**: Secure token-based authentication system
 - **Data Encryption**: End-to-end encryption for sensitive information
 - **Audit Logging**: Comprehensive activity tracking and monitoring
 
-### 📈 Business Features
+### Business Features
 - **Client Management**: Complete CRM functionality for client relationships
 - **Invoice Templates**: Customizable templates for different business needs
 - **Payment Tracking**: Integrated payment status monitoring
@@ -254,7 +253,7 @@ NODE_ENV=development
 
 ---
 
-## 📚 API Documentation
+## API Documentation
 
 ### Authentication Endpoints
 - `POST /api/auth/signup` - User registration
@@ -336,8 +335,8 @@ CMD ["npm", "start"]
 
 This is a private project created and maintained by:
 
-- **Pranay Tyagi** - Lead Developer & AI Integration Specialist
-- **Finn Connelly** - Full-Stack Developer & Architecture Lead
+- **Pranay Tyagi** - Co-founder
+- **Finn Connelly** - Co-founder
 
 ### Development Setup
 1. Contact the project maintainers for access
@@ -354,18 +353,9 @@ This is a private project created and maintained by:
 
 ---
 
-## 🙏 Acknowledgments
-
-- **OpenAI** for providing powerful AI capabilities
-- **Supabase** for the excellent backend-as-a-service platform
-- **React Team** for the amazing frontend framework
-- **Community** for feedback and contributions
-
----
-
 <div align="center">
 
-**Built with ❤️ by Pranay Tyagi & Finn Connelly**
+**Built by Pranay Tyagi & Finn Connelly**
 
 *Modern AI-powered invoice management for the digital age.*
 
