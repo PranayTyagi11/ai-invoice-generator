@@ -2,6 +2,7 @@
 
 All notable changes to the AI Invoice Generator project will be documented in this file.
 
+**Created by**: Pranay Tyagi & Finn Connelly  
 **Note**: This is a private project. The source code is not publicly available, but this changelog is provided for reference and understanding of the project evolution.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
@@ -298,22 +299,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 0.9.0 → 1.0.0: Major updates required
 - 1.0.0+: Regular updates available
 
-## Contributing
-
-This is a private project. For access or collaboration, please contact the project maintainer.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
-- OpenAI for AI capabilities
-- Supabase for backend services
-- React team for the frontend framework
-- All contributors and testers
-- Community feedback and suggestions
+- **OpenAI** for AI capabilities
+- **Supabase** for backend services  
+- **React team** for the frontend framework
+- **Community** for feedback and suggestions
 
 ---
 
-**Note**: This changelog is maintained manually. For automated changelog generation, see our [Contributing Guide](CONTRIBUTING.md).
+**Created by**: Pranay Tyagi & Finn Connelly  
+**Note**: This changelog is maintained manually and reflects the project's evolution.

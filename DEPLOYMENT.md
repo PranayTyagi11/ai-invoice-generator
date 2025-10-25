@@ -4,6 +4,7 @@
 
 This guide covers deploying the AI Invoice Generator application to various platforms and environments. The application consists of a React frontend and Node.js backend with Supabase as the database.
 
+**Created by**: Pranay Tyagi & Finn Connelly  
 **Note**: This is a private project. The source code is not publicly available, but this documentation is provided for reference and understanding of the deployment architecture.
 
 ## Prerequisites

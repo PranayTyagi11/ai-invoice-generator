@@ -2,6 +2,7 @@
 
 Welcome to the AI Invoice Generator documentation! This comprehensive documentation suite provides everything you need to understand the project architecture, API, and deployment options.
 
+**Created by**: Pranay Tyagi & Finn Connelly  
 **Note**: This is a private project. The source code is not publicly available, but this documentation is provided for reference and understanding of the system architecture.
 
 ## 📁 Documentation Structure

@@ -4,6 +4,7 @@
 
 The AI Invoice Generator follows a modern, scalable architecture pattern that separates concerns between the frontend, backend, and database layers. The system is designed for high performance, security, and maintainability.
 
+**Created by**: Pranay Tyagi & Finn Connelly  
 **Note**: This is a private project. The source code is not publicly available, but this documentation is provided for reference and understanding of the system architecture.
 
 ## High-Level Architecture

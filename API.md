@@ -999,4 +999,5 @@ class InvoiceAPIClient:
 
 This comprehensive API documentation provides developers with all the information needed to integrate with the AI Invoice Generator API effectively.
 
+**Created by**: Pranay Tyagi & Finn Connelly  
 **Note**: This is a private project. The API is not publicly available, but this documentation is provided for reference and understanding of the system capabilities.

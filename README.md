@@ -8,7 +8,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-🚀%20Coming%20Soon-blue?style=for-the-badge)](#)
 [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Node.js%20%7C%20Supabase-green?style=for-the-badge)](https://github.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Private%20Project-orange?style=for-the-badge)](#)
 
 </div>
 
@@ -17,15 +17,14 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
+- [Screenshots](#-screenshots)
 - [Key Features](#-key-features)
 - [Technology Stack](#-technology-stack)
-- [Screenshots](#-screenshots)
 - [Quick Start](#-quick-start)
 - [Architecture](#-architecture)
 - [API Documentation](#-api-documentation)
 - [Deployment](#-deployment)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -41,6 +40,38 @@ The **AI Invoice Generator** is a cutting-edge web application that revolutioniz
 - **Scalable Architecture**: Microservices-based backend with PostgreSQL database
 - **Export Capabilities**: Multiple export formats including PDF generation
 - **Client Management**: Comprehensive client database with relationship tracking
+
+---
+
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
+*Clean, modern dashboard with real-time metrics and quick actions*
+
+### Invoice Generator
+![Invoice Editor](screenshots/invoice-generator.png)
+*Intuitive invoice creation with AI-powered suggestions*
+
+### Invoice Editor
+![Invoice Editor](screenshots/invoice-editor.png)
+*Intuitive invoice editor*
+
+### Invoice Export
+![Invoice Editor](screenshots/invoice-export.png)
+*Export Invoice*
+
+### Client Management
+![Client Management](screenshots/client-management.png)
+*Comprehensive client database with relationship tracking*
+
+### Invoice List
+![Invoice List](screenshots/invoice-list.png)
+*Organized invoice management with filtering and search*
+
+### Settings Panel
+![Settings](screenshots/settings.png)
+*Customizable business settings and preferences*
 
 ---
 
@@ -105,38 +136,6 @@ The **AI Invoice Generator** is a cutting-edge web application that revolutioniz
 - **Git** - Version control and collaboration
 - **npm** - Package management
 - **CORS** - Cross-origin resource sharing
-
----
-
-## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
-*Clean, modern dashboard with real-time metrics and quick actions*
-
-### Invoice Generator
-![Invoice Editor](screenshots/invoice-generator.png)
-*Intuitive invoice creation with AI-powered suggestions*
-
-### Invoice Editor
-![Invoice Editor](screenshots/invoice-editor.png)
-*Intuitive invoice editor*
-
-### Invoice Export
-![Invoice Editor](screenshots/invoice-export.png)
-*Export Invoice*
-
-### Client Management
-![Client Management](screenshots/client-management.png)
-*Comprehensive client database with relationship tracking*
-
-### Invoice List
-![Invoice List](screenshots/invoice-list.png)
-*Organized invoice management with filtering and search*
-
-### Settings Panel
-![Settings](screenshots/settings.png)
-*Customizable business settings and preferences*
 
 ---
 
@@ -335,10 +334,13 @@ CMD ["npm", "start"]
 
 ## 🤝 Contributing
 
-This is a private project. For access or collaboration, please contact the project maintainer.
+This is a private project created and maintained by:
+
+- **Pranay Tyagi** - Lead Developer & AI Integration Specialist
+- **Finn Connelly** - Full-Stack Developer & Architecture Lead
 
 ### Development Setup
-1. Contact the project maintainer for access
+1. Contact the project maintainers for access
 2. Set up your development environment
 3. Follow the installation guide above
 4. Make your changes
@@ -352,12 +354,6 @@ This is a private project. For access or collaboration, please contact the proje
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **OpenAI** for providing powerful AI capabilities
@@ -367,18 +363,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-- **Documentation**: [Full Documentation](README_DOCS.md)
-- **Contact**: Please reach out to the project maintainer
-- **Email**: Contact the project maintainer for support
-
----
-
 <div align="center">
 
-**Built with ❤️ by the AI Invoice Generator Team**
+**Built with ❤️ by Pranay Tyagi & Finn Connelly**
 
-*This is a private project. For access or collaboration, please contact the project maintainer.*
+*Modern AI-powered invoice management for the digital age.*
 
 </div>

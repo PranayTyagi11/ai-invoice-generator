@@ -4,6 +4,7 @@
 
 The AI Invoice Generator implements enterprise-grade security measures to protect user data, ensure privacy, and maintain system integrity. This document outlines the comprehensive security architecture, measures, and best practices implemented throughout the application.
 
+**Created by**: Pranay Tyagi & Finn Connelly  
 **Note**: This is a private project. The source code is not publicly available, but this documentation is provided for reference and understanding of the security architecture.
 
 ## 🛡️ Security Architecture
