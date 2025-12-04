@@ -47,8 +47,6 @@ Watch a quick demo of the AI Invoice Generator in action:
 
 [![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo%20Video-blue?style=for-the-badge)](https://drive.google.com/file/d/1Ny3CRb9M3Wtf4-A9llqBN9BAlIRM-2Tl/view?usp=sharing)
 
-**Direct Link**: [https://drive.google.com/file/d/1Ny3CRb9M3Wtf4-A9llqBN9BAlIRM-2Tl/view?usp=sharing](https://drive.google.com/file/d/1Ny3CRb9M3Wtf4-A9llqBN9BAlIRM-2Tl/view?usp=sharing)
-
 ---
 
 ## Screenshots
