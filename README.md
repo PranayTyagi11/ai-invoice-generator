@@ -5,7 +5,6 @@
 
 **A modern, intelligent invoice management system powered by AI**
 
-[![Demo](https://drive.google.com/file/d/1Ny3CRb9M3Wtf4-A9llqBN9BAlIRM-2Tl/view?usp=sharing)](#)
 [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Node.js%20%7C%20Supabase-green?style=for-the-badge)](https://github.com)
 [![Status](https://img.shields.io/badge/Status-Private%20Project-orange?style=for-the-badge)](#)
 
@@ -39,6 +38,16 @@ The **AI Invoice Generator** is a cutting-edge web application that revolutioniz
 - **Scalable Architecture**: Microservices-based backend with PostgreSQL database
 - **Export Capabilities**: Multiple export formats including PDF generation
 - **Client Management**: Comprehensive client database with relationship tracking
+
+---
+
+## 🎥 Demo Video
+
+Watch a quick demo of the AI Invoice Generator in action:
+
+[![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo%20Video-blue?style=for-the-badge)](https://drive.google.com/file/d/1Ny3CRb9M3Wtf4-A9llqBN9BAlIRM-2Tl/view?usp=sharing)
+
+**Direct Link**: [https://drive.google.com/file/d/1Ny3CRb9M3Wtf4-A9llqBN9BAlIRM-2Tl/view?usp=sharing](https://drive.google.com/file/d/1Ny3CRb9M3Wtf4-A9llqBN9BAlIRM-2Tl/view?usp=sharing)
 
 ---
 
