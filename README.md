@@ -5,7 +5,7 @@
 
 **A modern, intelligent invoice management system powered by AI**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-🚀%20Coming%20Soon-blue?style=for-the-badge)](#)
+[![Demo](https://drive.google.com/file/d/1Ny3CRb9M3Wtf4-A9llqBN9BAlIRM-2Tl/view?usp=sharing)](#)
 [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Node.js%20%7C%20Supabase-green?style=for-the-badge)](https://github.com)
 [![Status](https://img.shields.io/badge/Status-Private%20Project-orange?style=for-the-badge)](#)
 
