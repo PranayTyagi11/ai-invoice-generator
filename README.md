@@ -364,6 +364,4 @@ This is a private project created and maintained by:
 
 **Built by Pranay Tyagi & Finn Connelly**
 
-*Modern AI-powered invoice management for the digital age.*
-
 </div>
