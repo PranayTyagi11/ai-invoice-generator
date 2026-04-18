@@ -32,7 +32,7 @@ The **AI Invoice Generator** is an invoice management system with artificial int
 
 ### 🚀 What Makes It Special
 
-- **AI-Powered Processing**: Leverages OpenAI's advanced language models for intelligent invoice parsing and generation
+- **AI-Powered Processing**: Leverages one of OpenAI's language model for intelligent invoice parsing and generation
 - **Real-Time Collaboration**: Multi-user support with secure authentication and role-based access
 - **Modern UI/UX**: Clean, responsive design built with React and modern CSS frameworks
 - **Scalable Architecture**: Microservices-based backend with PostgreSQL database
