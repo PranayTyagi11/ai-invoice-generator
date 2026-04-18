@@ -1,11 +1,11 @@
-# 📚 Documentation Overview
+# Documentation Overview
 
 Welcome to the AI Invoice Generator documentation! This comprehensive documentation suite provides everything you need to understand the project architecture, API, and deployment options.
 
 **Created by**: Pranay Tyagi & Finn Connelly  
 **Note**: This is a private project. The source code is not publicly available, but this documentation is provided for reference and understanding of the system architecture.
 
-## 📁 Documentation Structure
+## Documentation Structure
 
 ```
 docs/
@@ -27,7 +27,7 @@ docs/
     └── hero-banner.png
 ```
 
-## 🎯 Quick Start Guide
+## Quick Start Guide
 
 ### For Users
 1. **Start Here**: [README.md](README.md) - Project overview and features
@@ -44,9 +44,9 @@ docs/
 2. **Architecture**: [ARCHITECTURE.md](ARCHITECTURE.md) - Security model and patterns
 3. **Deployment**: [DEPLOYMENT.md](DEPLOYMENT.md) - Secure deployment practices
 
-## 📖 Documentation Details
+## Documentation Details
 
-### 📋 README.md
+### README.md
 **Main project documentation**
 - Project overview and features
 - Technology stack
@@ -55,7 +55,7 @@ docs/
 - Live demo links
 - Support information
 
-### 🏗️ ARCHITECTURE.md
+### ARCHITECTURE.md
 **System architecture and design**
 - High-level architecture diagrams
 - Frontend and backend structure
@@ -64,7 +64,7 @@ docs/
 - Performance considerations
 - Scalability patterns
 
-### 📚 API.md
+### API.md
 **Complete API documentation**
 - Authentication endpoints
 - Client management APIs
@@ -74,7 +74,7 @@ docs/
 - Error handling and status codes
 - SDK examples and integration guides
 
-### 🚀 DEPLOYMENT.md
+### DEPLOYMENT.md
 **Deployment and setup guides**
 - Local development setup
 - Cloud deployment options
@@ -84,7 +84,7 @@ docs/
 - Security considerations
 - Troubleshooting guide
 
-### 🔒 SECURITY.md
+### SECURITY.md
 **Comprehensive security documentation**
 - Security architecture and design
 - Authentication and authorization
@@ -106,7 +106,7 @@ docs/
 - Migration guides
 - Future roadmap
 
-## 🖼️ Screenshots
+## Screenshots
 
 The `screenshots/` folder contains high-quality images showcasing the application:
 
@@ -118,7 +118,7 @@ The `screenshots/` folder contains high-quality images showcasing the applicatio
 - **mobile-responsive.png** - Mobile-optimized interface
 - **hero-banner.png** - Project hero image
 
-## 🔧 Technical Documentation
+## Technical Documentation
 
 ### Architecture Overview
 The AI Invoice Parser follows a modern, scalable architecture:
@@ -129,16 +129,16 @@ The AI Invoice Parser follows a modern, scalable architecture:
 - **Security**: JWT authentication with Row Level Security
 
 ### Key Features
-- 🤖 AI-powered invoice parsing
-- 📊 Real-time dashboard and analytics
-- 🔐 Enterprise-grade security with comprehensive protection
-- 📱 Mobile-responsive design
-- 🎨 Modern, clean UI/UX
-- 📄 PDF export capabilities
-- 👥 Client management system
-- 🔄 Real-time data synchronization
-- 🛡️ Multi-layer security architecture
-- 🔒 Row-level security and data encryption
+- AI-powered invoice parsing
+- Real-time dashboard and analytics
+- Enterprise-grade security with comprehensive protection
+- Mobile-responsive design
+- Modern, clean UI/UX
+- PDF export capabilities
+- Client management system
+- Real-time data synchronization
+- Multi-layer security architecture
+- Row-level security and data encryption
 
 ### Technology Stack
 - **Frontend**: React, Vite, CSS3, React Router
@@ -148,7 +148,7 @@ The AI Invoice Parser follows a modern, scalable architecture:
 - **Deployment**: Docker, Cloud platforms
 - **Security**: Row Level Security, CORS, Rate Limiting
 
-## 📊 Project Statistics
+## Project Statistics
 
 - **Lines of Code**: 10,000+ (estimated)
 - **Components**: 20+ React components
@@ -167,72 +167,5 @@ The AI Invoice Parser follows a modern, scalable architecture:
 
 ### Quick Setup
 ```bash
-# Note: This is a private repository
-# Contact the project maintainer for access to the source code
-
-# Once you have access:
-# Install dependencies
-npm install
-cd ai-invoice-generator-frontend && npm install
-cd ../root && npm install
-
-# Set up environment
-cp root/env.example root/.env
-# Edit .env with your credentials
-
-# Start development servers
-# Terminal 1: Backend
-cd root && npm start
-
-# Terminal 2: Frontend
-cd ai-invoice-generator-frontend && npm run dev
-```
-
-## 📞 Support and Community
-
-### Getting Help
-- **Documentation**: Check the relevant docs files
-- **Contact**: Please reach out to the project maintainer
-- **Email**: Contact the project maintainer for support
-
-### Community
-- **Note**: This is a private project
-- **Access**: Contact the project maintainer for access
-- **Collaboration**: Private collaboration only
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **OpenAI** for providing powerful AI capabilities
-- **Supabase** for the excellent backend-as-a-service platform
-- **React Team** for the amazing frontend framework
-- **Community** for feedback and contributions
-
-## 🔄 Keeping Documentation Updated
-
-This documentation is maintained by the project team and community contributors. To keep it current:
-
-1. **Report Issues**: If you find outdated information, please report it
-2. **Contribute**: Submit pull requests for documentation improvements
-3. **Stay Updated**: Follow the project for the latest changes
-4. **Provide Feedback**: Help us improve the documentation
-
-## 📈 Future Documentation
-
-Planned additions to the documentation:
-- Video tutorials and walkthroughs
-- Advanced configuration guides
-- Performance optimization guides
-- Security best practices
-- Integration examples
-- Troubleshooting guides
-- FAQ section
-
----
 
 **Thank you for your interest in the AI Invoice Generator!** 🚀
-
-This documentation is designed to help you understand the project architecture and capabilities. Since this is a private project, please contact the project maintainer for access or collaboration opportunities.
