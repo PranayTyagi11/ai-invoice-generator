@@ -4,9 +4,6 @@
 
 The AI Invoice Generator follows a modern, scalable architecture pattern that separates concerns between the frontend, backend, and database layers. The system is designed for high performance, security, and maintainability.
 
-**Created by**: Pranay Tyagi & Finn Connelly  
-**Note**: This is a private project. The source code is not publicly available, but this documentation is provided for reference and understanding of the system architecture.
-
 ## High-Level Architecture
 
 ```mermaid
@@ -336,80 +333,3 @@ const logger = {
   }))
 };
 ```
-
-### Metrics Collection
-
-- **Application Metrics**: Response times, error rates
-- **Business Metrics**: User activity, invoice processing
-- **Infrastructure Metrics**: CPU, memory, database performance
-- **Security Metrics**: Authentication failures, suspicious activity
-
-## Deployment Architecture
-
-### Development Environment
-
-```yaml
-# Development Stack
-Frontend: Vite Dev Server (localhost:5173)
-Backend: Node.js Express (localhost:3000)
-Database: Supabase (Cloud)
-AI: OpenAI API (Cloud)
-```
-
-### Production Environment
-
-```yaml
-# Production Stack
-Frontend: Vercel/Netlify (CDN)
-Backend: Railway/Heroku (Container)
-Database: Supabase (Managed PostgreSQL)
-AI: OpenAI API (Cloud)
-Storage: Supabase Storage (Cloud)
-```
-
-## Future Architecture Considerations
-
-### Planned Enhancements
-
-1. **Microservices Migration**: Service decomposition
-2. **Event-Driven Architecture**: Async processing
-3. **Machine Learning Pipeline**: Custom AI models
-4. **Multi-tenancy**: Enterprise features
-5. **Real-time Collaboration**: WebSocket integration
-
-### Scalability Roadmap
-
-- **Phase 1**: Current monolithic architecture
-- **Phase 2**: Service extraction and API gateway
-- **Phase 3**: Event-driven microservices
-- **Phase 4**: Multi-region deployment
-
-## Technology Decisions
-
-### Why These Technologies?
-
-**Frontend: React**
-- Component-based architecture
-- Large ecosystem and community
-- Excellent developer experience
-- Strong performance characteristics
-
-**Backend: Node.js + Express**
-- JavaScript consistency across stack
-- Fast development cycle
-- Rich npm ecosystem
-- Excellent async capabilities
-
-**Database: Supabase + PostgreSQL**
-- Managed database service
-- Built-in authentication
-- Real-time capabilities
-- Row-level security
-
-**AI: OpenAI API**
-- State-of-the-art language models
-- Easy integration
-- Reliable service
-- Cost-effective scaling
-
-This architecture provides a solid foundation for the AI Invoice Generator while maintaining flexibility for future enhancements and scaling requirements.
