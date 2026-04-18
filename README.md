@@ -155,12 +155,6 @@ Watch a quick demo of the AI Invoice Generator in action:
 
 ### Installation
 
-1. **Download the source code**
-   ```bash
-   # Note: This is a private repository
-   # Contact the project maintainer for access
-   ```
-
 1. **Install dependencies**
    ```bash
    # Install root dependencies
@@ -329,13 +323,6 @@ COPY . .
 EXPOSE 3000
 CMD ["npm", "start"]
 ```
-
-### Cloud Deployment Options
-- **Vercel**: Frontend deployment
-- **Railway**: Backend deployment
-- **Supabase**: Database hosting
-- **AWS**: Full-stack deployment
-
 ---
 
 ## 🤝 Contributing
