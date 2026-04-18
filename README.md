@@ -28,7 +28,7 @@
 
 ## Overview
 
-The **AI Invoice Generator** is a cutting-edge web application that revolutionizes invoice management through artificial intelligence. Built with modern web technologies, it provides businesses with an intelligent, automated solution for creating, managing, and processing invoices with unprecedented efficiency.
+The **AI Invoice Generator** is an invoice management system with artificial intelligence. Built with modern web technologies, it provides intelligent, automated solution for creating, managing, and processing invoices with unprecedented efficiency.
 
 ### 🚀 What Makes It Special
 
